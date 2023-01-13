@@ -25,6 +25,9 @@ build solic
 
 
 build ganache 
-`ganache(https://trufflesuite.com/ganache/)`
+`[ganache](https://trufflesuite.com/ganache/)`
+
+If you hava any questions, send me an email 
+my email address 793664535@qq.com
 
 
